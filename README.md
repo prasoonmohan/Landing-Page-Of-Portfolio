@@ -26,5 +26,5 @@ Javascript, HTML, CSS...
 
 ## Preview...
 
-![Screenshot](./assets/images/preview.png)
+![Screenshot](./assets/images/Preview.png)
 
