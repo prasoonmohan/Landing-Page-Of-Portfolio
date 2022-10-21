@@ -21,7 +21,7 @@ Landing Page with Home section
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Reactjs , Html ,Css and Javascript 
 
 
 ## Preview...
