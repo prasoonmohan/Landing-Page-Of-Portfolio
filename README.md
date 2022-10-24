@@ -12,6 +12,10 @@ Landing Page with Home section
 - used Simple colors
 - About button
 
+## snap 📸...
+
+![Screenshot](./assets/images/Preview.png)
+
 
 ## 🔗 Links
 
@@ -24,7 +28,4 @@ Landing Page with Home section
 Reactjs , Html ,Css and Javascript 
 
 
-## Preview...
-
-![Screenshot](./assets/images/Preview.png)
 
