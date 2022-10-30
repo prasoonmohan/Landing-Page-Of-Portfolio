@@ -12,7 +12,7 @@ Landing Page with Home section
 - used Simple colors
 - About button
 
-## snap 📸....
+## snap 📸...
 
 ![Screenshot](./assets/images/Preview.png)
 
